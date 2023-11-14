@@ -1,4 +1,7 @@
-"# Django-exercise" 
-"# First_project" 
-"# First_project" 
-"# First_project" 
+# ToDoList Website
+
+A straightforward web application to manage your tasks and stay organized.
+
+#clone the repository:
+
+
